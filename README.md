@@ -1,1 +1,1 @@
-This is my group final project presentation for Introduction to Data Science. This is a test READ ME submission.
+This is a final group project for the creation of a prediction model of used car prices following the data sets found on Kaggle. In order to discover an accurate prediction model, we must find the right regression model after properly cleaning and sorting our data.
